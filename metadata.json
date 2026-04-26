@@ -1,0 +1,5 @@
+{
+  "name": "Smart Water Irrigation System",
+  "description": "A responsive frontend dashboard for a Smart Water Irrigation System using ESP32. It provides real-time monitoring of soil moisture, temperature, humidity, rain, and light, along with manual control, analytics, and settings for efficient water management.",
+  "requestFramePermissions": []
+}
